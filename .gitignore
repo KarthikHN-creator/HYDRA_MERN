@@ -1,0 +1,39 @@
+# Local environment files and credentials. Keep documented examples in Git.
+.env
+.env.*
+!.env.example
+!.env.*.example
+!**/.env.example
+!**/.env.*.example
+
+# Node.js dependencies and build output.
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Python environments, caches, and test/coverage output.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+
+# Firmware and other generated build output.
+.pio/
+build/
+
+# Temporary files, logs, and operating-system/editor noise.
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+hydra/hydra_config.h
+hydra/.pio/
+hydra/build/
+hydra/.vscode/

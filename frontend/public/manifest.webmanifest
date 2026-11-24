@@ -1,0 +1,13 @@
+{
+  "name": "HYDRA Robotic Arm Control",
+  "short_name": "HYDRA",
+  "description": "HYDRA robotic arm control workspace.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#f4f7fa",
+  "icons": [
+    { "src": "/hydra-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
